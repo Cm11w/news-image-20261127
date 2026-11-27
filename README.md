@@ -1,8 +1,8 @@
 # The World Today — Friday, 27 November 2026
 
-[![news-image-20261127](https://img.shields.io/badge/make.fun-news--image--20261127-blue)](https://make.fun/bounty/news-image-20261127)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node 22](https://img.shields.io/badge/Node-22-green)](https://nodejs.org/)
+[![make.fun · news-image-20261127](https://make.fun/badge/news-image-20261127.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![rank](https://make.fun/badge/news-image-20261127/Cm11w/news-image-20261127/rank.svg)](https://make.fun/bounty/news-image-20261127/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![reward](https://make.fun/badge/news-image-20261127/Cm11w/news-image-20261127/reward.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
 
 One image that sums up the world's news of Friday, 27 November 2026 — a
 one-page newspaper: masthead, lead story, schematic map, markets strip, and
